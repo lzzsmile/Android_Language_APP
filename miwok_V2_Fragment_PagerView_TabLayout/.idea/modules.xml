@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/miwok.iml" filepath="$PROJECT_DIR$/miwok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miwok_V2_Fragment_PagerView.iml" filepath="$PROJECT_DIR$/miwok_V2_Fragment_PagerView.iml" />
     </modules>
   </component>
 </project>
