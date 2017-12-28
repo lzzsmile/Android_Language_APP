@@ -2,7 +2,11 @@
 
 ##### This is an Android APP for learning a language. It provides english and the target language in parallel lines, and also provide audio for pronunciation practice.
 
-##### In V1, use intent for multiscreen, and in V2, use fragment, tablayout, viewpager for multiscreen.
+##### Use ArrayAdapter and ListView to manage the layout efficiently, without using too much memory space.
+#####	Use XML to design the layout to display the lists of data.
+#####	Navigating between lists in Fragments using a ViewPager, TabLayout. Enable the multiscreen display.
+#####	Use audio manager to handle audio playing when clicking the list item, and audio focus.
+
 
 ##### V1: 
 
